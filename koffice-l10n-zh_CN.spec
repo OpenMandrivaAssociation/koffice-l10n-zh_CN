@@ -1,5 +1,5 @@
 Name: koffice-l10n-zh_CN
-Version: 1.9.98.5
+Version: 1.9.99.0
 Release: %mkrel 1
 Summary: Language files for KOffice Simplified Chinese
 Group: System/Internationalization
